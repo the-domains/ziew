@@ -1,0 +1,28 @@
+name: ziew
+favicon: null
+layout_spectrum: 0.5663645737804472
+typography_spectrum: 0.12405428080819547
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9958393939305097
+  lightness: 0.9156651184894145
+  saturation: 0.218229339690879
+  rhythmicContrast: 0.715225518681109
+purpose: []
